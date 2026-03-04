@@ -1,0 +1,11 @@
+# Environment variables (DO NOT PUSH SECRETS)
+.env
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+*.log

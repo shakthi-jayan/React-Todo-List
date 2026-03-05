@@ -25,6 +25,3 @@ export const getTasks = async (req, res) => {
     });
   }
 };
-
-git config --global user.name "Shakthi Jayan J"
-git config --global user.email "shakthijayan19@gmail.com"

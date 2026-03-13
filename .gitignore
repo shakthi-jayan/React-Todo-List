@@ -9,3 +9,8 @@ dist/
 
 # Logs
 *.log
+
+
+* text=auto
+*.js text eol=lf
+*.json text eol=lf
